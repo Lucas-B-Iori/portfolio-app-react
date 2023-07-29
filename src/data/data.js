@@ -1,35 +1,27 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
+import Aluratube from '../assets/projects/aluratube.png';
+import Aluraspace from '../assets/projects/aluraspace.png';
+import Expensetracker from '../assets/projects/expenseTracker.png';
 
 export const data=[
     {
         id:1,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
+        name:"AluraTube",
+        image:Aluratube,
+        github:"https://github.com/Lucas-B-Iori/aluratube",
+        live:"https://aluratube-five-delta.vercel.app/",
     },
     {
         id:2,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"AluraSpace",
+        image:Aluraspace,
+        github:"https://github.com/Lucas-B-Iori/aluraSpace",
+        live:"https://alura-space-five-pi.vercel.app/",
     },
     {
         id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
+        name:"ExpenseTracker",
+        image:Expensetracker,
+        github:"https://github.com/Lucas-B-Iori/expense-tracker",
+        live:"https://expense-tracker-teal.vercel.app/",
     },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
-
-
 ]
