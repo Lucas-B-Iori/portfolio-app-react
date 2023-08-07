@@ -14,7 +14,7 @@ const Home = () => {
           Lucas Bertolassi Iori
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          Sou um Engenheiro de Software.
+          Estudo Engenharia de Software
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           Sou um Engenheiro de Software que esta na faculdade em busca de uma primeira vaga profissional. Tenho mais conhecimentos dentro da parte de Front-End, mas posso aprender e trabalhar com outras áreas também.
